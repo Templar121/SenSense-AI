@@ -1,0 +1,49 @@
+Metadata-Version: 2.4
+Name: SenSense
+Version: 0.0.0
+Summary: A CNN based Sentiment Explanation using LIME
+Home-page: https://github.com/Templar121/SenSense-AI
+Author: Templar121
+Author-email: subhayanmukherjee78@gmail.com
+Project-URL: Bug Tracker, https://github.com/Templar121/SenSense-AI/issues
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: project-url
+Dynamic: summary
+
+# SenSense-AI
+
+## How to Run ?
+
+### STEPS: 
+Clone the repository
+
+```bash
+https://github.com/Templar121/SenSense-AI
+```
+
+### STEP 1:
+
+Create a Virtual Environment
+
+```bash
+python -m venv dlproj
+```
+
+Activate the Virtual Environment
+
+```bash
+dlproj/scripts/ activate
+```
+
+### STEP 2:
+
+Install the required packages
+
+```bash
+pip install -r requirements.txt
+```

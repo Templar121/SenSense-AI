@@ -1,0 +1,39 @@
+# Core data handling
+numpy
+pandas
+
+# NLP preprocessing
+nltk
+spacy
+bs4
+textblob
+wordcloud
+regex
+
+# Tokenization & Vectorization
+scikit-learn
+tensorflow
+keras
+matplotlib
+seaborn
+
+# Explainability
+lime
+shap
+
+# Web deployment
+Flask
+Flask-Cors
+gunicorn
+
+# Utilities
+tqdm
+joblib
+typeguard
+python-box==6.0.2
+pyyaml
+ensure==1.0.2
+types-PyYAML
+
+# Editable local installation
+-e .
