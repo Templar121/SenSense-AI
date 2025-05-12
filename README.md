@@ -33,7 +33,6 @@ pip install -r requirements.txt
 
 ## NLTK Downloads
 
-Before running the code, make sure the following NLTK resources are downloaded:
 
 ```bash
 python nltk_setup.py 
